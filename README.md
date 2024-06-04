@@ -18,6 +18,13 @@
 
 ![스피드 조절 함수](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/2ea5a9f6-3dd1-4f6d-8e0a-e44b08109434)
 
+전체 구현 장면입니다.
+
+![전체](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/1d3e587f-4081-47e2-83ab-2138f087617f)
+
+득점이 생기면 다시 원래의 초기값을 가지도록 설계하였습니다.
+
+
 
 
 
