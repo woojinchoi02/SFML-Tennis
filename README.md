@@ -12,7 +12,8 @@
 
 2. 공이 빨라지는 장면
 
-![크기 조절함수](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/9e4016b6-4251-431f-b7bc-b6102af7a74e)
+![123](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/aea4caa7-1140-404a-945d-d6a5fd0fc327)
+
 
 두 번 정도 튕길 때마다 공이 점점 빨라지도록 설계하였습니다.
 
