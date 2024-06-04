@@ -10,3 +10,15 @@
 
 ![크기 조절함수](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/45a92c74-8410-4868-857b-99a0954be0df)
 
+2. 공이 빨라지는 장면
+
+![크기 조절함수](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/9e4016b6-4251-431f-b7bc-b6102af7a74e)
+
+두 번 정도 튕길 때마다 공이 점점 빨라지도록 설계하였습니다.
+
+![스피드 조절 함수](https://github.com/woojinchoi02/SFML-Tennis/assets/162526228/2ea5a9f6-3dd1-4f6d-8e0a-e44b08109434)
+
+
+
+
+
